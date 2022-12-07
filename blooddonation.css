@@ -1,0 +1,26 @@
+body{
+    border: 1px solid red;
+    background-color: rgb(255, 255, 255);
+    background-image: url(img4.jpg);
+}
+
+button{
+    text-align: center;
+    text-align-last: right;
+    background-color:rgb(255, 255, 255);
+    color: brown;
+    align-content: center;
+
+
+form{
+    text-align: end;
+    background-color: rgb(44, 17, 17);
+    color: aliceblue;
+    height: 100px;
+}
+div{
+    background-color: brown;
+}
+h2{
+    color: white;
+}
